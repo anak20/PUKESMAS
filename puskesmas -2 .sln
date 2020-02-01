@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puskesmas", "puskesmas\puskesmas.csproj", "{5FD3B05D-824B-4FC8-808E-A0D7EE45982D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD3B05D-824B-4FC8-808E-A0D7EE45982D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD3B05D-824B-4FC8-808E-A0D7EE45982D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD3B05D-824B-4FC8-808E-A0D7EE45982D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD3B05D-824B-4FC8-808E-A0D7EE45982D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E0E0DF-099D-4097-A5D3-7D3BAFCC7944}
+	EndGlobalSection
+EndGlobal
